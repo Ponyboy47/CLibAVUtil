@@ -1,5 +1,5 @@
 module CLibAVUtil [system] {
-  header "libavutil/avutil.h"
+  header "avutil.h"
   link "avutil"
   export *
 }
