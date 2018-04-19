@@ -2,5 +2,6 @@
 /.build
 /Packages
 /*.xcodeproj
+/Package.resolved
 *.sw[po]
 *.vimsession
